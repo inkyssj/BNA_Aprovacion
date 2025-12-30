@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.9.1",
+    "selenium-webdriver": "^4.39.0"
+  }
+}
