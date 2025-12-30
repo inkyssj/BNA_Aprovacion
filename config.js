@@ -2,9 +2,9 @@ const websiteBNA = 'https://bna.com.ar/home/messi?wc=ventatcgoogle&gad_source=1&
 const bnaMailCode = 'no_responder@bnanet.bna.com.ar'
 
 let user = {
-	'CUIL': '27301995542',
-	'mail': 'damus203@gmail.com',
-	'mailAppPassword': 'hqzddzcoxhlcatoz' // hqzd dzco xhlc atoz
+	'CUIL': '00000000000',
+	'mail': 'mail@gmail.com',
+	'mailAppPassword': 'mailCodePassword'
 }
 
 module.exports = { websiteBNA, bnaMailCode, user }
