@@ -2,9 +2,9 @@
 
 How to install
 
-git clone repo
+´´git clone repo
 cd repo
-npm i
+npm i´
 
 To run script
-node index.js
+´´node index.js´
