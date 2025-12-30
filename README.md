@@ -1,10 +1,14 @@
 # BNA_Aprovacion
 
-How to install
+### How to install
 
-´´´git clone repo
+```bash
+git clone repo
 cd repo
-npm i´´´
+npm i
+```
 
-To run script
-´´´node index.js´´´
+### To run script
+```bash
+node index.js
+```
